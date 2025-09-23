@@ -1,7 +1,10 @@
 langchain
 langchain-community
 langchain-openai
-langchain-text-splitters
 chromadb
-sentence-transformers
+modelscope
+docling
 pypdf
+jieba
+scikit-learn
+pandas
